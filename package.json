@@ -7,7 +7,7 @@
     "url": "git+https://github.com/nuxtlabs/studio-module.git"
   },
   "homepage": "https://nuxt.studio",
-  "packageManager": "pnpm@8.14.2",
+  "packageManager": "pnpm@8.15.0",
   "keywords": [
     "vue",
     "nuxt",
@@ -61,12 +61,12 @@
     "@nuxt/schema": "^3.9.3",
     "@nuxt/ui-pro": "^0.7.3",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
-    "@types/node": "^20.11.5",
+    "@types/node": "^20.11.10",
     "changelogen": "^0.5.5",
     "consola": "^3.2.3",
     "eslint": "^8.56.0",
     "nuxt": "^3.9.3",
-    "release-it": "^17.0.1",
+    "release-it": "^17.0.3",
     "typescript": "^5.3.3"
   },
   "release-it": {
